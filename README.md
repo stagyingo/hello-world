@@ -1,4 +1,4 @@
 # hello-world
-Hi humans
+Hi humans,
 A very great storehouses, depot, treasury, mine and respository.
-This is so amazing
+This is so amazing.
